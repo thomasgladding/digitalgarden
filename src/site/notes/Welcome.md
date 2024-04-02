@@ -8,3 +8,5 @@ Make a note of something, [[create a link\|create a link]], or try [the Importer
 
 When you're ready, delete this note and make the vault your own.
 
+[[3-2-1 Backup Methodology\|3-2-1 Backup Methodology]]
+
