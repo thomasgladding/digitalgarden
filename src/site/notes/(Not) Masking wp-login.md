@@ -16,6 +16,6 @@ Masking the WordPress login page (changing its default URL, /wp-login.php) was o
 	1. Cloudflare rules[^3]
 # Footnotes
 
-[^1]: Link to back this up TK
+[^1]: https://chriswiegman.com/2021/10/please-stop-hiding-wp-admin/
 [^2]: [Know plugin conflicts](https://apps.wordpress.com/support/mobile/login-signup/known-plugin-conflicts/?utm_source=chatgpt.com), [Defender Pro issues](https://wordpress.org/support/topic/masking-url-login-causing-registration-problem/?utm_source=chatgpt.com), [Mobile app issues](https://apps.wordpress.com/support/mobile/login-signup/known-plugin-conflicts/), [Registration issues](https://wordpress.org/support/topic/masking-url-login-causing-registration-problem/?utm_source=chatgpt.com)
 [^3]: [Cloudflare WAF Rules V3 by Web Agency Hero](https://webagencyhero.com/cloudflare-waf-rules-v3/)
