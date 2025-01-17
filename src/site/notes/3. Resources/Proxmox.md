@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/proxmox/"}
+{"dg-publish":true,"dg-path":"Proxmox.md","permalink":"/proxmox/"}
 ---
 
 Proxmox Virtual Environment (VE) is an open-source platform for virtualization. 
